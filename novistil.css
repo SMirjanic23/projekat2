@@ -1,0 +1,289 @@
+html body {
+	margin: 0;
+	padding-top: 70px;
+	font-family: Basherville Old Face;
+	
+}
+
+#proizvodi {
+	margin: 20px;
+}
+#navbar li a{
+    height: 51.16px;
+}
+#navbar li a:hover {
+
+	color: red;
+	height: 51.16px;
+	 
+	text-align: right;
+}
+
+
+#jumbotron {
+	margin-top: 20px;
+	background-color: transparent;
+	background-size: cover;
+}
+
+.list-unstyled li {
+padding: 1.5rem;
+border-bottom: 1px solid #d9534f;
+}
+.list-unstyled li a {
+color: black;
+text-decoration: none;
+}
+.list-unstyled li a:hover {
+color: #d9534f;
+}
+
+.panel-title a {
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+.panel-collapse.collapsing {
+	box-shadow: 1px 6px 20px -5px #000;
+}
+
+.panel-collapse.collapse.in {
+	box-shadow: 1px 6px 20px -5px #000;
+}
+
+.footer-top {
+	padding:  2rem;
+}
+
+.footer-top .page-header h5 {
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+	font-size: 1.5rem;
+}
+
+.footer-top img {
+	margin-right: 1rem;
+}
+
+.footer-top li {
+	margin: 1rem;
+}
+
+.footer-top li a {
+	text-decoration: none;
+	color: black;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+}
+
+.footer-top li a:hover {
+color: red;
+}
+
+.footer-bottom {
+	padding:  1.5rem 1.5rem 0 2rem;
+	background-color: #eee;
+}
+
+.footer-bottom li a {
+	text-transform: uppercase;
+	text-decoration: none;
+	color: black;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+}
+
+.footer-bottom li a:hover {
+	color: red;
+}
+
+#footer-color {
+	color: light grey;
+}
+
+#jumbo1 {
+	margin-top: 10%;
+	width: 763px;
+	height: 227.25px;
+	background-image: url('../espresouzrnu.png');
+}
+
+#footer {
+	background-color: #D8D8D8;
+}
+
+#body {
+	background-image: url('../nekaslika.png');
+}
+
+#navbar,#bs-example-navbar-collapse-1 {
+	background-color: #D8D8D8;
+    width: 100%;
+} 
+#bs-example-navbar-collapse-1 li{
+    left: 10%;
+}
+
+#jumbo2 {
+	margin-top: 10%;
+	width: 663px;
+	height: 197.47px;
+	background-image: url('../mlevenakafa.png');
+}
+
+#jumbo3 {
+	margin-top: 10%;
+	width: 663px;
+	height: 197.47px;
+	background-image: url('../kafaukapsulama.png');
+}
+
+#jumbo4 {
+	margin-top: 10%;
+	width: 663px;
+	height: 198.11px;
+	background-image: url('../kafaucaldi.png');
+}
+
+#jumbo5 {
+	margin-top: 10%;
+	width: 300px;
+	height: 214px;
+	background-image: url('../oprema/la-spaziale-logo.png');
+}
+
+
+#jumbo6 {
+	margin-top: 10%;
+	width: 1160px;
+	height: 435px;
+	background-image: url('../oprema/s2.png');
+}
+
+#jumbo7 {
+	margin-top: 10%;
+	width: 1160px;
+	height: 435px;
+	background-image: url('../oprema/s3.png');
+}
+
+#jumbo8 {
+	margin-top: 10%;
+	width: 1160px;
+	height: 435px;
+	background-image: url('../oprema/s5.png');
+}
+
+#easykafa {
+	margin-top: 10%;
+	width: 1160px;
+	height: 481.39px;
+	background-image: url('../oprema/easy-to-go.png');
+}
+
+#guzzini {
+	margin-top: 10%;
+	width: 1160px;
+	height: 481.39px;
+	background-image: url('../oprema/guzziniaparati-1.png');
+}
+
+#pr2,#pr3{
+    display: none;
+  
+}
+
+#ivice{
+    border-style: solid;
+    border-width: thin;
+}
+  ul.nav li.dropdown:hover ul.dropdown-menu {
+            display: block;
+        }
+#carousel-example-generic img{
+    width: 100%;
+}
+#pr1,#pr2,#pr3{
+      border: 1px solid black;
+    z-index: -8;
+}
+#link1,#link2,#link3{
+     border: 1px solid black;
+    padding: 3px;
+    z-index: 6;
+    background-color: white;
+}
+#link1{
+    padding-bottom: 5px;
+    border-bottom: none;
+}
+
+#proizvodi1 {
+	padding-top: 50px;
+}
+
+#proizvodi1 img:hover {
+	opacity: .5;
+}
+
+#proizvodi2 {
+	padding-top: 50px;
+}
+
+#stock {
+	background-color: #FAAC58;
+}
+
+
+
+
+
+       #prvi {
+            position: absolute;
+            left: 100px;
+            top: 100px;
+            width: 50px;
+            height: 400px;
+        }
+        #drugi {
+            position: absolute;
+            left: 150px;
+            top: 100px;
+               width: 50px;
+            height: 400px;
+        }
+                #treci {
+            position: absolute;
+            left: 200px;
+            top: 100px;
+            width: 50px;
+            height: 400px;
+        }
+        #cetvrti {
+            position: absolute;
+            left: 250px;
+            top: 100px;
+               width: 50px;
+            height: 400px;
+        }
+ 
+        }
+        #cetvrti,#treci,#drugi,#prvi img:hover {
+            opacity: .4;
+        }
+
+
+
+
+ #galerija {
+ 	padding-left: 70px;
+ 	padding-bottom: 70px;
+ }      
+
+ #onama {
+ 	background-color: #ffcc66;
+ }
+
+ #mapasajta {
+ 	background-color: #ffdd99;
+ }
